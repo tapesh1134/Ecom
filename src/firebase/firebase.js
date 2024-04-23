@@ -2,12 +2,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDDxZYiYF7akCVloFT1kRFNIQwHFr0SnO4",
-  authDomain: "ecom.com",
-  projectId: "ecom",
-  storageBucket: "ecom.com",
-  messagingSenderId: "329104631147",
-  appId: "1:329104631147:web:d907a1ab17c0f57df2182e"
+  // your firebase config
 };
 
 // Initialize Firebase
